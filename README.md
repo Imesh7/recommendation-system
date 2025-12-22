@@ -22,6 +22,10 @@
   - Model based (this is using machine learning model to predict/get hidden patterns underlaying on data)
 
 
+Ps : In the project I will use movie-dataset , so the context is movie recommendation system.
+In above I just go through the basic idea as whole
+
+
 ### Content based filtering
 (recommend the video user previously liked , recomend the similar kind of videos)
 
