@@ -9,10 +9,10 @@
 - Watch time
 
 
-Demographic filtering
+### Demographic filtering
 (Recommended popular movies, this will not personalize. Just recommend the popular items)
 
-Collabarative filering
+### Collabarative filering
 (recommended items to similar users behavior)
 
   - memory based (similar users behavior used matrix factorization)
@@ -22,7 +22,7 @@ Collabarative filering
   - Model based (this is using machine learning model to predict/get hidden patterns underlaying on data)
 
 
-Content based filtering
+### Content based filtering
 (recommend the video user previously liked , recomend the similar kind of videos)
 
 - likes videos
