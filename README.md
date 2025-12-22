@@ -28,7 +28,7 @@
 - Liked videos
 - Commented
 
-A dataset I am using [ml-latest-small.zip](https://grouplens.org/datasets/movielens/latest/)
+Dataset , I am using [ml-latest-small.zip](https://grouplens.org/datasets/movielens/latest/) small one (1 mb)
 
 
 Ps : In the project I will use movie-dataset , so the context is movie recommendation system.
