@@ -25,4 +25,5 @@
 ### Content based filtering
 (recommend the video user previously liked , recomend the similar kind of videos)
 
-- likes videos
+- Liked videos
+- Commented
