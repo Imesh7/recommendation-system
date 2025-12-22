@@ -1,4 +1,4 @@
-# Movie Recommedation system
+# Recommedation system
 
 ### Explicit
 - like
